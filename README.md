@@ -1,6 +1,6 @@
 # Python Project Portfolio  
 
-![pilt](https://github.com/IngeRi92/mini-projects/blob/main/ideas.jpg?raw=true)
+![pilt](https://github.com/IngeRi92/mini-projects/blob/main/Screenshots/ideas.jpg?raw=true)
 *A collection of Python projects from beginner to advanced.*
 
 ---
