@@ -12,3 +12,12 @@ A simple GUI-based to-do list application built with Python and Tkinter.
 2. Run the script:  
    ```bash  
    python todo.py  
+
+## Troubleshooting  
+### "No module named 'tkinter'"  
+Install it with:  
+- Linux: `sudo apt-get install python3-tk`  
+- Windows/macOS: Reinstall Python with Tcl/Tk support.  
+
+### "tasks.txt not found"  
+Run the script from its own folder.  
