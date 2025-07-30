@@ -30,7 +30,7 @@ Fetches real-time weather data using OpenWeatherMap API.
 
 ## Future Ideas
 
-5-day forecast
-Weather maps
+-5-day forecast
+-Weather maps
 
 ![pilt](https://github.com/IngeRi92/mini-projects/blob/main/Screenshots/ilma_app.PNG?raw=true)
