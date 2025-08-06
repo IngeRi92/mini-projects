@@ -28,20 +28,19 @@ python calculator.py
 
 ## Usage Example
 
-==================================================
+=================
 SIMPLE CALCULATOR
-==================================================
+=================
 Select operation:
 
 1. Addition (+)
 2. Subtraction (-)
-3. Multiplication (*)
+3. Multiplication (\*)
 4. Division (/)
 5. Power (^)
 6. Square Root (√)
-7. Exit
+7. # Exit
 
-==================================================
 Enter choice (1-7): 1
 Enter first number: 15
 Enter second number: 25
