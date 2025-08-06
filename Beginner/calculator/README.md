@@ -28,9 +28,8 @@ python calculator.py
 
 ## Usage Example
 
-=================
 SIMPLE CALCULATOR
-=================
+
 Select operation:
 
 1. Addition (+)
@@ -39,7 +38,7 @@ Select operation:
 4. Division (/)
 5. Power (^)
 6. Square Root (√)
-7. # Exit
+7. Exit
 
 Enter choice (1-7): 1
 Enter first number: 15
