@@ -41,7 +41,9 @@ Select operation:
 7. Exit
 
 Enter choice (1-7): 1
+
 Enter first number: 15
+
 Enter second number: 25
 
 15.0 + 25.0 = 40.0
