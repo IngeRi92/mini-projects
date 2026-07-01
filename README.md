@@ -1,20 +1,44 @@
 # Python Project Portfolio  
 
-![pilt](https://github.com/IngeRi92/mini-projects/blob/main/Screenshots/ideas.jpg?raw=true)
-*A collection of Python projects from beginner to advanced.*
+*A growing collection of Python projects, from beginner to advanced — working through a structured 60-project roadmap to practice a broad range of skills (GUI, APIs, web scraping, data structures, testing, and more).*
 
 ---
 
-## 📂 Project Structure  
-```bash
-/portfolio  
-├── /beginner  
-│   ├── /to-do-list-app  
-│   │   ├── todo.py  
-│   │   ├── tasks.txt  
-│   │   └── screenshot.png  
-├── /intermediate  
-│   ├── /expense-tracker  
-├── /advanced  
-│   ├── /stock-predictor  
-└── README.md  # (This file)
+## 🟢 Beginner (10/20 complete)
+
+- [x] [Hello World GUI](Beginner/hello-world-gui)
+- [x] [Number Guessing Game](Beginner/number-guessing-game)
+- [x] [Calculator](Beginner/calculator)
+- [x] [To-Do List App](Beginner/to-do-list-app)
+- [x] [Weather App](Beginner/weather-app)
+- [x] [Web Scraper](Beginner/web-scraper)
+- [ ] Basic Flask App
+- [ ] Dice Roller
+- [x] [Currency Converter](Beginner/currency-converter)
+- [ ] Text-Based Game
+- [x] [Random Password Generator](Beginner/password-generator)
+- [ ] Basic Chatbot
+- [ ] Image Downloader
+- [x] [Basic Data Visualization](Beginner/data-visualization)
+- [ ] Flashcard Quiz App
+- [ ] URL Shortener
+- [x] [Rock, Paper, Scissors](Beginner/rock-paper-scissors)
+- [ ] Alarm Clock
+- [ ] Guess the Word Game
+
+> Hangman Game was built as its own repo: [Hangman-game](https://github.com/IngeRi92/Hangman-game)
+
+## 🟡 Intermediate (0/20 complete)
+
+Personal Portfolio Website, Stock Price Tracker, Quiz Game with GUI, Chat Application, Expense Tracker, Simple Blog System, Password Manager, Tic Tac Toe with AI, Web Scraping with Selenium, Book Recommendation, RESTful API with Flask, Text-Based RPG, Interactive Map, File Organizer, Recipe Book App, URL Scraper, Snake Game, Database-Driven Webapp, BMI Calculator, ML Model Deployment
+
+## 🔴 Advanced (0/20 complete)
+
+Social Media Dashboard, E-commerce Website, Real-Time Chat Application, Stock Market Prediction, Blockchain Implementation, Voice Recognition System, Automated Testing Framework, Smart Home System, Music Recommendation, Neural Network from Scratch, Cryptocurrency Price Prediction, Augmented Reality App, Health Monitoring, Gesture Recognition, Automated Trading Bot, Real-Time Object Detection, Speech-to-Text, NLP Project, Facial Recognition, Self-Driving Car Simulation
+
+---
+
+Each completed project lives in its own folder with a dedicated README explaining what it does and how to run it.
+
+![pilt](https://github.com/IngeRi92/mini-projects/blob/main/Screenshots/ideas.jpg?raw=true)
+*A collection of Python projects from beginner to advanced.*
