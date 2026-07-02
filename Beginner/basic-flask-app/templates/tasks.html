@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ülesanded</title>
+</head>
+<body>
+    <h1>Minu ülesanded</h1>
+    <ul>
+    {% for task in tasks %}
+        <li>{{ task.title }} — {% if task.done %}Tehtud{% else %}Pooleli{% endif %}</li>
+    {% endfor %}
+    </ul>
+
+    <h1>Lisa ülesanded</h1>
+    <form action="/tasks" method="POST">
+        <label for="tasks">Ülesanne:</label>
+        <input type="text" id="tasks" name="title">
+        <button type="submit">Salvesta</button>
+    </form>
+</body>
+</html>
