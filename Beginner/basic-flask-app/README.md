@@ -34,7 +34,9 @@ A "pure" REST API would use `PUT`/`PATCH` and `DELETE` HTTP methods directly on 
 
 ## How to run
 
+```
 pip install flask
 python app.py
+```
 
 Then open `http://127.0.0.1:5000` in your browser.
