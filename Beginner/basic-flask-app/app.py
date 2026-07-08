@@ -14,6 +14,11 @@ def home():
     return "Welcome to the Flask App!"
 
 
+@app.route("/hello/<name>")
+def hello(name):
+    return f"Tere, {name}!"
+
+
 @app.route("/hello", methods=["GET", "POST"])
 def hello_form():
     if request.method == "POST":
@@ -33,6 +38,22 @@ def add_task():
     title = request.form["title"]
     tasks.append({"id": next_id, "title": title, "done": False})
     next_id += 1
+    return redirect(url_for("get_tasks"))
+
+
+@app.route("/tasks/<int:task_id>/delete", methods=["POST"])
+def delete_task(task_id):
+    global tasks
+    tasks = [task for task in tasks if task["id"] != task_id]
+    return redirect(url_for("get_tasks"))
+
+
+@app.route("/tasks/<int:task_id>/done", methods=["POST"])
+def toggle_task_done(task_id):
+    for task in tasks:
+        if task["id"] == task_id:
+            task["done"] = not task["done"]
+            break
     return redirect(url_for("get_tasks"))
 
 

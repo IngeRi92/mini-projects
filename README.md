@@ -1,6 +1,6 @@
-# Python Project Portfolio  
+# Python Project Portfolio
 
-*A growing collection of Python projects, from beginner to advanced — working through a structured 60-project roadmap to practice a broad range of skills (GUI, APIs, web scraping, data structures, testing, and more).*
+_A growing collection of Python projects, from beginner to advanced — working through a structured 60-project roadmap to practice a broad range of skills (GUI, APIs, web scraping, data structures, testing, and more)._
 
 ---
 
@@ -12,7 +12,7 @@
 - [x] [To-Do List App](Beginner/to-do-list-app)
 - [x] [Weather App](Beginner/weather-app)
 - [x] [Web Scraper](Beginner/web-scraper)
-- [ ] Basic Flask App
+- [x] [Basic Flask App](Beginner/basic-flask-app)
 - [ ] Dice Roller
 - [x] [Currency Converter](Beginner/currency-converter)
 - [ ] Text-Based Game
@@ -41,4 +41,4 @@ Social Media Dashboard, E-commerce Website, Real-Time Chat Application, Stock Ma
 Each completed project lives in its own folder with a dedicated README explaining what it does and how to run it.
 
 ![pilt](https://github.com/IngeRi92/mini-projects/blob/main/Screenshots/ideas.jpg?raw=true)
-*A collection of Python projects from beginner to advanced.*
+_A collection of Python projects from beginner to advanced._

@@ -1,21 +1,40 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
-<head>
+  <head>
     <title>Ülesanded</title>
-</head>
-<body>
+  </head>
+  <body>
     <h1>Minu ülesanded</h1>
     <ul>
-    {% for task in tasks %}
-        <li>{{ task.title }} — {% if task.done %}Tehtud{% else %}Pooleli{% endif %}</li>
-    {% endfor %}
+      {% for task in tasks %}
+      <li>
+        {{ task.title }} — {% if task.done %}Tehtud{% else %}Pooleli{% endif %}
+        <form
+          action="{{ url_for('delete_task', task_id=task.id) }}"
+          method="POST"
+          style="display: inline"
+        >
+          <button type="submit">Kustuta</button>
+        </form>
+
+        <form
+          action="{{ url_for('toggle_task_done', task_id=task.id) }}"
+          method="POST"
+          style="display: inline"
+        >
+          <button type="submit">
+            {% if task.done %}Tee lahti{% else %}Märgi tehtuks{% endif %}
+          </button>
+        </form>
+      </li>
+      {% endfor %}
     </ul>
 
     <h1>Lisa ülesanded</h1>
     <form action="/tasks" method="POST">
-        <label for="tasks">Ülesanne:</label>
-        <input type="text" id="tasks" name="title">
-        <button type="submit">Salvesta</button>
+      <label for="tasks">Ülesanne:</label>
+      <input type="text" id="tasks" name="title" />
+      <button type="submit">Salvesta</button>
     </form>
-</body>
+  </body>
 </html>
