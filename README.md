@@ -4,7 +4,7 @@ _A growing collection of Python projects, from beginner to advanced — working 
 
 ---
 
-## 🟢 Beginner (10/20 complete)
+## 🟢 Beginner (12/20 complete)
 
 - [x] [Hello World GUI](Beginner/hello-world-gui)
 - [x] [Number Guessing Game](Beginner/number-guessing-game)
@@ -13,7 +13,7 @@ _A growing collection of Python projects, from beginner to advanced — working 
 - [x] [Weather App](Beginner/weather-app)
 - [x] [Web Scraper](Beginner/web-scraper)
 - [x] [Basic Flask App](Beginner/basic-flask-app)
-- [ ] Dice Roller
+- [x] [Dice Roller](Beginner/dice-roller)
 - [x] [Currency Converter](Beginner/currency-converter)
 - [ ] Text-Based Game
 - [x] [Random Password Generator](Beginner/password-generator)
