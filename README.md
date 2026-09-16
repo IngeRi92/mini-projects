@@ -4,7 +4,7 @@ _A growing collection of Python projects, from beginner to advanced — working 
 
 ---
 
-## 🟢 Beginner (13/20 complete)
+## 🟢 Beginner (14/20 complete)
 
 - [x] [Hello World GUI](Beginner/hello-world-gui)
 - [x] [Number Guessing Game](Beginner/number-guessing-game)
@@ -17,7 +17,7 @@ _A growing collection of Python projects, from beginner to advanced — working 
 - [x] [Currency Converter](Beginner/currency-converter)
 - [x] [Text-Based Game](Beginner/text-based-game)
 - [x] [Random Password Generator](Beginner/password-generator)
-- [ ] Basic Chatbot
+- [x] [Basic Chatbot](Beginner/basic-chatbot)
 - [ ] Image Downloader
 - [x] [Basic Data Visualization](Beginner/data-visualization)
 - [ ] Flashcard Quiz App
