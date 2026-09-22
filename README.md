@@ -4,7 +4,7 @@ _A growing collection of Python projects, from beginner to advanced — working 
 
 ---
 
-## 🟢 Beginner (15/20 complete)
+## 🟢 Beginner (16/20 complete)
 
 - [x] [Hello World GUI](Beginner/hello-world-gui)
 - [x] [Number Guessing Game](Beginner/number-guessing-game)
@@ -20,7 +20,7 @@ _A growing collection of Python projects, from beginner to advanced — working 
 - [x] [Basic Chatbot](Beginner/basic-chatbot)
 - [x] [Image Downloader](Beginner/image-downloader)
 - [x] [Basic Data Visualization](Beginner/data-visualization)
-- [ ] Flashcard Quiz App
+- [x] [Flashcard Quiz App](Beginner/flashcard-quiz-app)
 - [ ] URL Shortener
 - [x] [Rock, Paper, Scissors](Beginner/rock-paper-scissors)
 - [ ] Alarm Clock
