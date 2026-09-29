@@ -4,7 +4,7 @@ _A growing collection of Python projects, from beginner to advanced — working 
 
 ---
 
-## 🟢 Beginner (17/20 complete)
+## 🟢 Beginner (18/20 complete)
 
 - [x] [Hello World GUI](Beginner/hello-world-gui)
 - [x] [Number Guessing Game](Beginner/number-guessing-game)
@@ -23,7 +23,7 @@ _A growing collection of Python projects, from beginner to advanced — working 
 - [x] [Flashcard Quiz App](Beginner/flashcard-quiz-app)
 - [x] [URL Shortener](Beginner/url-shortener)
 - [x] [Rock, Paper, Scissors](Beginner/rock-paper-scissors)
-- [ ] Alarm Clock
+- [x] [Alarm Clock](Beginner/alarm-clock)
 - [ ] Guess the Word Game
 
 > Hangman Game was built as its own repo: [Hangman-game](https://github.com/IngeRi92/Hangman-game)
