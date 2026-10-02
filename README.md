@@ -28,9 +28,11 @@ _A growing collection of Python projects, from beginner to advanced — working 
 
 > Hangman Game was built as its own repo: [Hangman-game](https://github.com/IngeRi92/Hangman-game)
 
-## 🟡 Intermediate (0/20 complete)
+## 🟡 Intermediate (1/20 complete)
 
-Personal Portfolio Website, Stock Price Tracker, Quiz Game with GUI, Chat Application, Expense Tracker, Simple Blog System, Password Manager, Tic Tac Toe with AI, Web Scraping with Selenium, Book Recommendation, RESTful API with Flask, Text-Based RPG, Interactive Map, File Organizer, Recipe Book App, URL Scraper, Snake Game, Database-Driven Webapp, BMI Calculator, ML Model Deployment
+- [x] [File Organizer](Intermediate/file-organizer)
+
+Personal Portfolio Website, Stock Price Tracker, Quiz Game with GUI, Chat Application, Expense Tracker, Simple Blog System, Password Manager, Tic Tac Toe with AI, Web Scraping with Selenium, Book Recommendation, RESTful API with Flask, Text-Based RPG, Interactive Map, Recipe Book App, URL Scraper, Snake Game, Database-Driven Webapp, BMI Calculator, ML Model Deployment
 
 ## 🔴 Advanced (0/20 complete)
 
