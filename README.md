@@ -28,13 +28,13 @@ _A growing collection of Python projects, from beginner to advanced — working 
 
 > Hangman Game was built as its own repo: [Hangman-game](https://github.com/IngeRi92/Hangman-game)
 
-## 🟡 Intermediate (4/20 complete)
+## 🟡 Intermediate (5/20 complete)
 
 - [x] [BMI Calculator](Intermediate/bmi-calculator)
 - [x] [File Organizer](Intermediate/file-organizer)
 - [x] [URL Scraper](Intermediate/url-scraper)
 - [x] [Quiz Game with GUI](Intermediate/quiz-game)
-- [ ] Recipe Book App
+- [x] [Recipe Book App](Intermediate/recipe-book-app)
 - [ ] Expense Tracker
 - [ ] Personal Portfolio Website
 - [ ] Stock Price Tracker
