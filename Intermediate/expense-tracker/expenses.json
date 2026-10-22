@@ -1,0 +1,14 @@
+[
+  {
+    "date": "2026-10-22",
+    "category": "Food",
+    "description": "Lunch",
+    "amount_cents": 850
+  },
+  {
+    "date": "2026-10-22",
+    "category": "Transport",
+    "description": "Bus ticket",
+    "amount_cents": 200
+  }
+]

@@ -1,0 +1,11 @@
+# Python caches and local virtual environments
+__pycache__/
+.venv/
+
+# Generated project output
+/Beginner/image-downloader/downloads/
+/Intermediate/url-scraper/urls.txt
+
+# Temporary JSON saves
+/Intermediate/recipe-book-app/recipes.tmp
+/Intermediate/expense-tracker/expenses.tmp
